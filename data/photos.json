@@ -1,0 +1,146 @@
+[
+  {
+    "id": "urban-1",
+    "albumId": "urban-landscapes",
+    "alt": "Morning light cutting through a glass atrium in downtown Chicago",
+    "caption": "Glass Canyon — Chicago, 2024",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": "urban-2",
+    "albumId": "urban-landscapes",
+    "alt": "Symmetrical subway tunnel with motion-blurred train lights trailing into darkness",
+    "caption": "Transit — Stockholm Tunnelbana",
+    "width": 900,
+    "height": 1200
+  },
+  {
+    "id": "urban-3",
+    "albumId": "urban-landscapes",
+    "alt": "Reflection of a historic stone bridge in still water at blue hour",
+    "caption": "Still Bridge — Prague, 2024",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": "urban-4",
+    "albumId": "urban-landscapes",
+    "alt": "Geometric shadows cast by a fire escape across a brick facade at noon",
+    "caption": "Fire Escape Geometry — New York",
+    "width": 800,
+    "height": 1200
+  },
+  {
+    "id": "urban-5",
+    "albumId": "urban-landscapes",
+    "alt": "Wet pavement reflecting neon signs in a narrow Tokyo alley after rain",
+    "caption": "After Rain — Shinjuku, Tokyo",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": "urban-6",
+    "albumId": "urban-landscapes",
+    "alt": "Aerial view of a roundabout intersection with light trails at dusk",
+    "caption": "Orbit — From the 42nd floor",
+    "width": 1200,
+    "height": 900
+  },
+  {
+    "id": "portrait-1",
+    "albumId": "natural-portraits",
+    "alt": "Young woman with braided hair standing among tall golden grass at golden hour",
+    "caption": "Elena in the Field — Tuscany",
+    "width": 900,
+    "height": 1200
+  },
+  {
+    "id": "portrait-2",
+    "albumId": "natural-portraits",
+    "alt": "Elderly fisherman mending nets on a wooden pier, face lit by late afternoon sun",
+    "caption": "The Net Mender — Kerala",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": "portrait-3",
+    "albumId": "natural-portraits",
+    "alt": "Child peering through a rain-streaked window, expression of quiet curiosity",
+    "caption": "Rainy Afternoon — Copenhagen",
+    "width": 1000,
+    "height": 1200
+  },
+  {
+    "id": "portrait-4",
+    "albumId": "natural-portraits",
+    "alt": "Dancer mid-leap in an abandoned warehouse, dust motes suspended in shafts of light",
+    "caption": "Levitation — Rehearsal session",
+    "width": 800,
+    "height": 1200
+  },
+  {
+    "id": "portrait-5",
+    "albumId": "natural-portraits",
+    "alt": "Market vendor surrounded by hanging textiles, face half-shadowed under the canopy",
+    "caption": "Fabric Merchant — Marrakech souk",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": "portrait-6",
+    "albumId": "natural-portraits",
+    "alt": "Close-up of weathered hands holding a ceramic cup, steaming in cold morning air",
+    "caption": "Morning Ritual — Oaxaca",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "id": "abstract-1",
+    "albumId": "abstract-light",
+    "alt": "Long exposure of car headlights curving through a mountain pass at night",
+    "caption": "Serpentine — Colorado switchbacks",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": "abstract-2",
+    "albumId": "abstract-light",
+    "alt": "Prism refraction casting rainbow bands across a white wall",
+    "caption": "Spectrum Study #4",
+    "width": 1000,
+    "height": 1200
+  },
+  {
+    "id": "abstract-3",
+    "albumId": "abstract-light",
+    "alt": "Water droplets on a window pane diffusing city lights into abstract bokeh",
+    "caption": "Bokeh City — Night rain series",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": "abstract-4",
+    "albumId": "abstract-light",
+    "alt": "Intentional camera movement creating streaked color bands across a forest scene",
+    "caption": "Forest Impression — ICM technique",
+    "width": 1200,
+    "height": 900
+  },
+  {
+    "id": "abstract-5",
+    "albumId": "abstract-light",
+    "alt": "Close-up of oil film on water creating iridescent swirling patterns",
+    "caption": "Iridescence — Macro series",
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "id": "abstract-6",
+    "albumId": "abstract-light",
+    "alt": "Multiple exposure overlay of a dancer's silhouette against stained glass",
+    "caption": "Layered Motion — Cathedral light",
+    "width": 900,
+    "height": 1200
+  }
+]

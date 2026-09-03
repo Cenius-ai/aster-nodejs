@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+.cache/
+
+# Build output
+static/styles.min.css
+dist/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Deno
+fresh.gen.ts

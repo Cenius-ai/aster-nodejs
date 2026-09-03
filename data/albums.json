@@ -1,0 +1,20 @@
+[
+  {
+    "id": "urban-landscapes",
+    "title": "Urban Landscapes",
+    "description": "A study of geometry and light in metropolitan spaces — concrete canyons, glass reflections, and the quiet beauty of infrastructure at dawn.",
+    "cover": "urban-1"
+  },
+  {
+    "id": "natural-portraits",
+    "title": "Natural Portraits",
+    "description": "Intimate environmental portraits captured in untamed light — faces emerging from forests, fields, and the edges of the wild.",
+    "cover": "portrait-1"
+  },
+  {
+    "id": "abstract-light",
+    "title": "Abstract Light",
+    "description": "Experimental compositions where light itself becomes the subject — refractions, long exposures, and color studies that dissolve form into emotion.",
+    "cover": "abstract-1"
+  }
+]
