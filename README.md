@@ -93,7 +93,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-A self-contained Node.js project (50 files): top-level directories include `components/`, `data/`, `islands/`, `routes/`, `static/`, `utils/`. Dependency management and data seeding are both handled by `./install.sh` — run it once, then start the server. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+A self-contained Node.js project (39 files): top-level directories include `components/`, `data/`, `islands/`, `routes/`, `static/`, `utils/`. Dependency management and data seeding are both handled by `./install.sh` — run it once, then start the server. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## FAQ
 
